@@ -2,19 +2,20 @@
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
+active: true
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 30
 
-title: Featured Publications
+title: Job Market Paper
 subtitle: ""
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: publication
+  page_type: projects
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
   # Filter on criteria
