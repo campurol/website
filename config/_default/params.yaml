@@ -5,95 +5,77 @@
 
 # Appearance
 
-theme: minimal
+theme: strawberry
 day_night: true
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
 twitter: ''
+description: 'Rolando Campusano Economics Toronto Entrepreneurship Agglomeration Spillovers Urban Chile Canada Statistics Data Machine Learning'
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: rolando.campusano@rotman.utoronto.ca
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: 105 St George St, Toronto, ON M5S 3E6
+  city: Toronto
+  region: Ontario
+  postcode: 'M4W3G0'
+  country: Canada
+  country_code: CA
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
-    icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+  latitude: '43.665991237886615'
+  longitude: '-79.39857036931312'
+
+# Override the theme's font set (optional).
+#   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
+#   Browse built-in font sets in `themes/academic/data/fonts/`
+#   Browse user installed font sets in `data/fonts/`
+#font: "custom_fonts"
 
 # Site header
-
 main_menu:
   enable: true
-  align: l
+  align: r
   show_logo: true
   show_language: false
   show_day_night: true
-  show_search: true
+  show_search: false
   highlight_active_link: true
+  logo: 'rotman-logo'
 
 # Localization
-
 date_format: 'Jan 2, 2006'
 time_format: '3:04 PM'
 address_format: en-us
 
 # Site features
-
 highlight: true
 highlight_languages:
   - r
-math: false
-diagram: false
+  - python
+math: true
+diagram: true
 privacy_pack: false
 edit_page:
   repo_url: ''
   content_dir: ''
   repo_branch: main
   editable:
-    page: false
+    page: true
     post: false
     book: false
 show_related:
-  book: true
+  book: false
   page: false
-  post: true
+  post: false
   project: true
-  publication: true
+  publication: false
   event: true
 reading_time: true
 section_pager: false
@@ -105,7 +87,7 @@ copyright_license:
   share_alike: true
   allow_commercial: false
   notice: 'This work is licensed under {license}'
-abstract_length: 135
+abstract_length: 1000
 plugins_js: []
 avatar:
   gravatar: false
@@ -119,15 +101,15 @@ projects:
   talk_view: 2
 breadcrumb:
   page_types:
-    book: true
+    book: false
 comments:
   provider: ''
   commentable:
-    post: true
-    book: true
-    project: true
-    publication: true
-    event: true
+    post: false
+    book: false
+    project: false
+    publication: false
+    event: false
   disqus:
     shortname: ''
     show_count: true
@@ -141,11 +123,11 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: '2'
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: 'UA-126228217-1'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
