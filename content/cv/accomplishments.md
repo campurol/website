@@ -42,7 +42,7 @@ item:
   organization: CRESSE
   description: Fellowship to attend a summer school that provided a comprehensive account of the most up-to-date developments in economic theory, empirical analysis and legislation in the policy areas of Competition and Regulation.
 
-- title: University of Toronto Connaught International Student Scholarship
+- title: Connaught International Student Scholarship
   date_start: "2015-08-25"
   organization: Connaught Fund
   description: Award intended to attract excellent international doctoral students. Every year, around 20 scholarships are awarded across all University of Toronto first year students.
