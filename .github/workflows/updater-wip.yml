@@ -2,8 +2,14 @@ name: Updater (WIP)
 
 on:
   schedule:
-    - cron: 0 0 * * 0
-
+    - cron: '37 6 * * *'
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+    
+  workflow_dispatch:
+  
 jobs:
   update:
     runs-on: ubuntu-latest
