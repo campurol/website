@@ -43,4 +43,4 @@ I am a **Ph.D. Candidate in Economics from the Rotman School of Management at 
 
 My current projects include: combining machine learning methods with economic theory to delineate neighbourhoods based on historical location choices, using administrative data to study the causal impact of local agglomeration spillovers on entrepreneurial success while accounting for ownership location choices at the neighbourhood level, and recently analyzing the existence and effects of location constraints for women and immigrant entrepreneurial outcomes.
 
-**Please find my Full CV [here](https://www.google.com/url?q=https%3A%2F%2Fwww.dropbox.com%2Fs%2F4puxakaozx51bbe%2FCV_RCG_May2020.pdf%3Fraw%3D1&sa=D&sntz=1&usg=AFQjCNFZ9SPn6ZpJ1J85gm4k_WuzcamKgw).**
+**Please find my Full CV [here](uploads/resume.pdf).**
