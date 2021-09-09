@@ -13,7 +13,7 @@ social:
     link: /#contact
   - icon: github
     icon_pack: fab
-    link: https://github.com/campurol
+    link: https://github.com/rcampusa
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/rolandocampusano/?locale=en_US
