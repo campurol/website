@@ -25,8 +25,7 @@ date_format: Jan 2006
 item:
 - title: TD MDAL Research Grant
   date_start: "2021-02-25"
-  organization: TD Management Data and Analytics Lab
-  company_logo: TD
+  organization: TTD Management Data and Analytics Lab
   description: Covers research costs related to a project using frontier methods in data analytics and machine learning.
   url: ""
   date_end: ""
@@ -35,26 +34,29 @@ item:
 
 - title: BEAR PhD Award
   date_start: "2019-07-25"
-  organization: BEAR - Behavioral Economics in Action at Rotman
-  organization_logo: BEAR
+  organization: Behavioral Economics in Action at Rotman (BEAR)
+  description: Covers research costs related to project that studies firms location choices
 
-- title: Connaught Scholarship
+- title: 2018 CRESSE Canadian Fellow
+  date_start: "2018-07-25"
+  organization: CRESSE
+  description: Fellowship to attend a summer school that provided a comprehensive account of the most up-to-date developments in economic theory, empirical analysis and legislation in the policy areas of Competition and Regulation.
+
+- title: Connaught International Student Scholarship
   date_start: "2015-08-25"
   organization: University of Toronto Connaught Fund
   description: Award intended to attract excellent international doctoral students. Every year, around 20 scholarships are awarded across all University of Toronto first year students.
-  organization_logo: connaught-fund
 
 - title: Young Economist Delegate
   date_start: "2014-08-25"
   organization: Lindau Meeting of the Nobel Laureates in Economic Sciences
   description: Their aim is to bring together Nobel laureates and young economists to foster economic research exchange between different generations and cultures
-  organization_logo: LINDAU
 
 - title: Best Graduate Student Award
   date_start: "2012-08-25"
-  organization: Facultad de Economía y Negocios, Universidad de Chile
-  organization_logo: FEN
+  organization: Universidad de Chile
+  description: Given to the student with the highest GPA in the 2012 cohort of the M.A. in Economic Analysis from the Department of Economics, Universidad de Chile
 
 design:
-  columns: '2' 
+  columns: '2'
 ---
