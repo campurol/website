@@ -3,11 +3,13 @@ title: Rolando Campusano
 role: Ph.D. Candidate in Economic Analysis and Policy
 bio: Economist with research interests in the intersection of **urban
   economics**, **entrepreneurship**, and **industrial organization**.
+
 interests:
   - Urban Economics
   - Entrepreneurship and Innovation
   - Industrial Organization
-  social:
+
+social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
