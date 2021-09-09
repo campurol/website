@@ -23,8 +23,8 @@ social:
 organizations:
   - name: Rotman School of Management, University of Toronto
     url: https://www.rotman.utoronto.ca/Degrees/PhD/PhDStudentBios/Campusano-Rolando
-  - url: https://www.rotman.utoronto.ca/FacultyAndResearch/ResearchCentres/CRE
-    name: Centre for Real Estate and Urban Economics, University of Toronto
+  - name: Centre for Real Estate and Urban Economics, University of Toronto
+    url: https://www.rotman.utoronto.ca/FacultyAndResearch/ResearchCentres/CRE
   - name: Economic Analysis Division, Statistics Canada
     url: https://www.statcan.gc.ca/
 
