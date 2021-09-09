@@ -16,10 +16,9 @@ site_type: Person
 local_business_type: ''
 org_name: ''
 twitter: ''
-description: 'Rolando Campusano Economics Toronto Entrepreneurship Agglomeration Spillovers Urban Chile Canada Statistics Data Machine Learning'
+description: ''
 
 # Contact (edit or remove options as required)
-
 email: rolando.campusano@rotman.utoronto.ca
 address:
   street: 105 St George St, Toronto, ON M5S 3E6
@@ -86,7 +85,7 @@ copyright_license:
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
-  notice: 'This work is licensed under {license}'
+  notice: ''
 abstract_length: 1000
 plugins_js: []
 avatar:

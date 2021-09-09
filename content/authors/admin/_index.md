@@ -1,7 +1,7 @@
 ---
 title: Rolando Campusano
 role: Ph.D. Candidate in Economic Analysis and Policy
-bio: My research interests lie in in the intersection of **urban
+bio: Economist with research interests in the intersection of **urban
   economics**, **entrepreneurship**, and **industrial organization**.
 interests:
   - Urban Economics
@@ -17,6 +17,10 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/rolandocampusano/?locale=en_US
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
+
 organizations:
   - name: Rotman School of Management, University of Toronto
     url: https://www.rotman.utoronto.ca/Degrees/PhD/PhDStudentBios/Campusano-Rolando
@@ -24,6 +28,7 @@ organizations:
     name: Centre for Real Estate and Urban Economics, University of Toronto
   - name: Economic Analysis Division, Statistics Canada
     url: https://www.statcan.gc.ca/
+
 education:
   courses:
     - course: Ph.D. in Economic Analysis and Policy
@@ -35,6 +40,7 @@ education:
     - course: B.A. in Economics
       institution: University of Toronto
       year: 2010
+
 email: rolando.campusano@rotman.utoronto.ca
 superuser: true
 highlight_name: false
@@ -43,4 +49,4 @@ I am a **Ph.D. Candidate in Economics from the Rotman School of Management at 
 
 My current projects include: combining machine learning methods with economic theory to delineate neighbourhoods based on historical location choices, using administrative data to study the causal impact of local agglomeration spillovers on entrepreneurial success while accounting for ownership location choices at the neighbourhood level, and recently analyzing the existence and effects of location constraints for women and immigrant entrepreneurial outcomes.
 
-**Please find my Full CV [here](uploads/resume.pdf).**
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
