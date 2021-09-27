@@ -4,7 +4,6 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-
 theme: strawberry
 day_night: true
 font: ''
@@ -39,7 +38,7 @@ coordinates:
 # Site header
 main_menu:
   enable: true
-  align: r
+  align: l
   show_logo: true
   show_language: false
   show_day_night: true
@@ -76,7 +75,7 @@ show_related:
   publication: false
   event: true
 reading_time: true
-section_pager: true
+section_pager: false
 docs_section_pager: true
 sharing: true
 copyright_license:
