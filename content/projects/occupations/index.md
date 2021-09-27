@@ -20,10 +20,10 @@ publishDate: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Occupations and the Substitutability of Computers and Workers"
 publication_short: ""
 
 abstract: Using U.S. Census and Current Population Survey data, this paper estimates the elasticity of substitution between computer and not-computer labor across different occupations. Moreover, this paper also attempts to understand where occupations are located within the firm structure. Using a flexible nested CES framework and without making any assumptions about the substitutability of labor, results support the previous view that there exist a monotone relationship between routine intensity and the elasticity of substitution between computer and not-computer labor. Moreover, results also suggest that the nesting structure that fits better the data locates Managers and Professionals at the top of the organization, Low Skill services at the middle and Production and Clerical workers at the bottom.
