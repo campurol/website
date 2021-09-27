@@ -2,7 +2,7 @@
 title: Rolando Campusano
 role: Ph.D. Candidate
 bio: Economist with research interests in the intersection of **urban
-  economics**, **entrepreneurship**, and **industrial organization**.
+  economics**, **entrepreneurship**, and **industrial organization**. 
 
 interests:
   - Urban Economics

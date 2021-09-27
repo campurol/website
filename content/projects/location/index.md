@@ -37,7 +37,7 @@ abstract:
 # Summary. An optional shortened abstract.
 summary: "**Funding**: Statistics Canada Research Affiliate Program and BEAR Ph.D. Research Award"
 
-tags: ['Job Market Paper']
+tags: ['Job Market Paper','work in progress']
 
 # Display this page in the Featured widget?
 featured: true

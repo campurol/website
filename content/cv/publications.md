@@ -26,10 +26,10 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: Working Papers
-    tag: "working papers"
   - name: Work in Progress
     tag: "work in progress"
+  - name: Working Papers
+    tag: "working papers"
   - name: Pre-Doctoral
     tag: "pre doctoral"
   - name: All
