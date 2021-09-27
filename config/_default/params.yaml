@@ -8,7 +8,7 @@
 theme: strawberry
 day_night: true
 font: ''
-font_size: S
+font_size: M
 
 # SEO
 site_type: Person
@@ -20,7 +20,7 @@ description: 'Economist with research interests in the intersection of entrepre
 # Contact (edit or remove options as required)
 email: rolando.campusano@rotman.utoronto.ca
 address:
-  street: 105 St George St, Toronto, ON M5S 3E6
+  street: 105 St George St
   city: Toronto
   region: Ontario
   postcode: 'M4W3G0'
@@ -62,7 +62,7 @@ diagram: true
 privacy_pack: false
 edit_page:
   repo_url: 'https://github.com/rcampusa/website'
-  content_dir: ''
+  content_dir: 'https://github.com/rcampusa/website/content'
   repo_branch: master
   editable:
     page: true
@@ -88,7 +88,7 @@ copyright_license:
 abstract_length: 1000
 plugins_js: []
 avatar:
-  gravatar: true
+  gravatar: false
   shape: circle
 publications:
   date_format: January 2006
