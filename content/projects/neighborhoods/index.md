@@ -11,6 +11,7 @@ authors:
 author_notes: ""
 
 date: "2021-07-01T00:00:00Z"
+publishDate: "2021-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -29,7 +30,7 @@ publication_short: ""
 # Summary. An optional shortened abstract.
 summary: "**Funding**: Department of Finance Canada and TD Management Data and Analytics Lab Research Grant"
 
-tags: ['working papers']
+tags: ['working papers','work in progress']
 
 # Display this page in the Featured widget?
 featured: false
