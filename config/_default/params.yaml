@@ -42,7 +42,7 @@ main_menu:
   show_logo: true
   show_language: false
   show_day_night: true
-  show_search: false
+  show_search: true
   highlight_active_link: true
   logo: 'rotman-logo'
 
@@ -56,23 +56,24 @@ highlight: true
 highlight_languages:
   - r
   - python
-math: true
-diagram: true
+  - latex
+math: false
+diagram: false
 privacy_pack: false
 edit_page:
-  repo_url: 'https://github.com/rcampusa/website'
-  content_dir: 'https://github.com/rcampusa/website/content'
-  repo_branch: master
+  repo_url: ''
+  content_dir: ''
+  repo_branch: main
   editable:
-    page: true
-    post: true
+    page: false
+    post: false
     book: false
 show_related:
-  book: false
+  book: true
   page: false
-  post: false
+  post: true
   project: true
-  publication: false
+  publication: true
   event: true
 reading_time: true
 section_pager: false
@@ -83,8 +84,8 @@ copyright_license:
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
-  notice: ''
-abstract_length: 1000
+  notice: 'This work is licensed under {license}'
+abstract_length: 135
 plugins_js: []
 avatar:
   gravatar: false
@@ -98,15 +99,15 @@ projects:
   talk_view: 2
 breadcrumb:
   page_types:
-    book: false
+    book: true
 comments:
   provider: ''
   commentable:
-    post: false
-    book: false
-    project: false
-    publication: false
-    event: false
+    post: true
+    book: true
+    project: true
+    publication: true
+    event: true
   disqus:
     shortname: ''
     show_count: true
@@ -120,7 +121,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: '3'
+  provider: mapbox
   api_key: 'pk.eyJ1IjoicmNhbXB1c2EiLCJhIjoiY2t0eXNnZGx1MGR0NzJ2b3dpb2hjcmJpMyJ9.1HAcVw-jg1DixIog1jW1Vw'
   zoom: 15
 marketing:
@@ -134,6 +135,4 @@ cms:
   local_backend: false
 icon:
   pack:
-    ai: true
-    fas: true
-    fab: true
+    ai: false

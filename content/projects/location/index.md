@@ -1,5 +1,5 @@
 ---
-title: "Local Agglomeration Spillovers and Startups"
+title: "Startup Location, Local Spillovers and Neighborhood Sorting"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -32,7 +32,7 @@ publication_types: ["0"]
 publication: ""
 publication_short: ""
 
-abstract: 
+abstract: How critical are location attributes for the success of startup firms? This paper studies this question at the level of city blocks and their surrounding neighborhoods. Using a newly developed clustering algorithm implemented on the universe of firms in Canada, I construct neighborhoods relevant for each industry within which sorting across blocks is conditionally random. To account for sorting across neighborhoods, I develop an extended Roy model of neighborhood selection, where entrepreneurs choose neighborhoods based on expected startup outcomes and idiosyncratic entrepreneur preferences based on distance to their past residence locations. Results show positive and economically significant effects of block average employment and revenue in the same industry for end-of-year employment, revenue and survival rates. These effects are heterogeneous across industries and types of block-level economic activity.
 
 # Summary. An optional shortened abstract.
 summary: "**Funding**: Statistics Canada Research Affiliate Program and BEAR Ph.D. Research Award"
@@ -77,3 +77,6 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+### Abstract:
+How critical are location attributes for the success of startup firms? This paper studies this question at the level of city blocks and their surrounding neighborhoods. Using a newly developed clustering algorithm implemented on the universe of firms in Canada, I construct neighborhoods relevant for each industry within which sorting across blocks is conditionally random. To account for sorting across neighborhoods, I develop an extended Roy model of neighborhood selection, where entrepreneurs choose neighborhoods based on expected startup outcomes and idiosyncratic entrepreneur preferences based on distance to their past residence locations. Results show positive and economically significant effects of block average employment and revenue in the same industry for end-of-year employment, revenue and survival rates. These effects are heterogeneous across industries and types of block-level economic activity. 
