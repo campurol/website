@@ -1,65 +1,66 @@
 ---
 # Display name
-title: Rolando Campusano
+title: Alice Bighetti (吳恩達)
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Rotman School of Management, University of Toronto
-    url: https://www.rotman.utoronto.ca/Degrees/PhD/PhDStudentBios/Campusano-Rolando
-  - name: Centre for Real Estate and Urban Economics, University of Toronto
-    url: https://www.rotman.utoronto.ca/FacultyAndResearch/ResearchCentres/CRE
-  - name: Economic Analysis Division, Statistics Canada
-    url: https://www.statcan.gc.ca/
+- name: Stanford University
+  url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Economist with research interests in the intersection of **urban
-  economics**, **entrepreneurship**, and **industrial organization**. 
+bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Urban Economics
-  - Entrepreneurship and Innovation
-  - Industrial Organization
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Economic Analysis and Policy
-      institution: Rotman School of Management, University of Toronto
-      year: 2022
-    - course: M.A. in Economic Analysis
-      institution: University of Chile
-      year: 2012
-    - course: B.A. in Economics
-      institution: University of Toronto
-      year: 2010
+  - course: PhD in Artificial Intelligence
+    institution: Stanford University
+    year: 2012
+  - course: MEng in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2009
+  - course: BSc in Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/rcampusa
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/rolandocampusano
-    label: Lets connect on Linkedin
-    display:
-      header: true
+- icon: envelope
+  icon_pack: fas
+  link: '/#contact'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/GeorgeCushen
+  label: Follow me on Twitter
+  display:
+    header: true
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/gcushen
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/
 
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# Link to a PDF of your resume/CV from the About widget.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -69,10 +70,11 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
-I am a **Ph.D. Candidate in Economic Analysis and Policy from the Rotman School of Management at the University of Toronto**. I am also a Ph.D. fellow at the [Centre for Real Estate and Urban Economics](https://www.rotman.utoronto.ca/FacultyAndResearch/ResearchCentres/CRE), and an Economist and Deemed Employee at [Statistics Canada](https://www.statcan.gc.ca/eng/start). Before grad school, I was a junior economist at the Economic Research Department of the [Central Bank of Chile](https://www.bcentral.cl/en/home).
 
-My current projects include: combining machine learning methods with economic theory to delineate neighbourhoods based on historical location choices, using administrative data to study the causal impact of local agglomeration spillovers on entrepreneurial success while accounting for ownership location choices at the neighbourhood level, and recently analyzing the existence and effects of location constraints for women and immigrant entrepreneurial outcomes.
+Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

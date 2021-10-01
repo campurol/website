@@ -4,38 +4,59 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-theme: strawberry
+
+theme: minimal
 day_night: true
 font: ''
-font_size: M
+font_size: L
 
 # SEO
+
 site_type: Person
 local_business_type: ''
-org_name: 'Rolando Campusano'
+org_name: ''
+description: ''
 twitter: ''
-description: 'Economist with research interests in the intersection of entrepreneurship, urban economics, and industrial organization.'
 
 # Contact (edit or remove options as required)
-email: rolando.campusano@rotman.utoronto.ca
-address:
-  street: 105 St George St
-  city: Toronto
-  region: Ontario
-  postcode: 'M4W3G0'
-  country: Canada
-  country_code: CA
-coordinates:
-  latitude: '43.665991237886615'
-  longitude: '-79.39857036931312'
 
-# Override the theme's font set (optional).
-#   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
-#   Browse built-in font sets in `themes/academic/data/fonts/`
-#   Browse user installed font sets in `data/fonts/`
-#font: "custom_fonts"
+email: test@example.org
+phone: 888 888 88 88
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
+  country_code: US
+coordinates:
+  latitude: '37.4275'
+  longitude: '-122.1697'
+directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+office_hours:
+  - 'Monday 10:00 to 13:00'
+  - 'Wednesday 09:00 to 10:00'
+appointment_url: 'https://calendly.com'
+contact_links:
+  - icon: twitter
+    icon_pack: fab
+    name: DM Me
+    link: 'https://twitter.com/Twitter'
+  - icon: skype
+    icon_pack: fab
+    name: Skype Me
+    link: 'skype:echo123?call'
+  - icon: keybase
+    icon_pack: fab
+    name: Chat on Keybase
+    link: 'https://keybase.io/'
+  - icon: comments
+    icon_pack: fas
+    name: Discuss on Forum
+    link: 'https://discourse.gohugo.io'
 
 # Site header
+
 main_menu:
   enable: true
   align: l
@@ -44,14 +65,15 @@ main_menu:
   show_day_night: true
   show_search: true
   highlight_active_link: true
-  logo: 'rotman-logo'
 
 # Localization
+
 date_format: 'Jan 2, 2006'
 time_format: '3:04 PM'
 address_format: en-us
 
 # Site features
+
 highlight: true
 highlight_languages:
   - r
@@ -121,11 +143,11 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: mapbox
-  api_key: 'pk.eyJ1IjoicmNhbXB1c2EiLCJhIjoiY2t0eXNnZGx1MGR0NzJ2b3dpb2hjcmJpMyJ9.1HAcVw-jg1DixIog1jW1Vw'
+  provider: mapnik
+  api_key: ''
   zoom: 15
 marketing:
-  google_analytics: 'UA-126228217-1'
+  google_analytics: ''
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
