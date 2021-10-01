@@ -35,7 +35,9 @@ publication_short: ""
 abstract: How critical are location attributes for the success of startup firms? This paper studies this question at the level of city blocks and their surrounding neighborhoods. Using a newly developed clustering algorithm implemented on the universe of firms in Canada, I construct neighborhoods relevant for each industry within which sorting across blocks is conditionally random. To account for sorting across neighborhoods, I develop an extended Roy model of neighborhood selection, where entrepreneurs choose neighborhoods based on expected startup outcomes and idiosyncratic entrepreneur preferences based on distance to their past residence locations. Results show positive and economically significant effects of block average employment and revenue in the same industry for end-of-year employment, revenue and survival rates. These effects are heterogeneous across industries and types of block-level economic activity.
 
 # Summary. An optional shortened abstract.
-summary: "**Funding**: Statistics Canada Research Affiliate Program and BEAR Ph.D. Research Award"
+summary: |2- 
+    **Job Market Paper**
+    **Funding**: Statistics Canada Research Affiliate Program and BEAR Ph.D. Research Award"
 
 tags: ['Job Market Paper','work in progress']
 
