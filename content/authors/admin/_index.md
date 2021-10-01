@@ -1,25 +1,14 @@
 ---
+# Display name
 title: Rolando Campusano
+
+# Is this the primary user of the site?
+superuser: true
+
+# Role/position/tagline
 role: Ph.D. Candidate
-bio: Economist with research interests in the intersection of **urban
-  economics**, **entrepreneurship**, and **industrial organization**. 
 
-interests:
-  - Urban Economics
-  - Entrepreneurship and Innovation
-  - Industrial Organization
-
-social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/rcampusa
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/rolandocampusano
-
+# Organizations/Affiliations to show in About widget
 organizations:
   - name: Rotman School of Management, University of Toronto
     url: https://www.rotman.utoronto.ca/Degrees/PhD/PhDStudentBios/Campusano-Rolando
@@ -28,6 +17,17 @@ organizations:
   - name: Economic Analysis Division, Statistics Canada
     url: https://www.statcan.gc.ca/
 
+# Short bio (displayed in user profile at end of posts)
+bio: Economist with research interests in the intersection of **urban
+  economics**, **entrepreneurship**, and **industrial organization**. 
+
+# Interests to show in About widget
+interests:
+  - Urban Economics
+  - Entrepreneurship and Innovation
+  - Industrial Organization
+
+# Education to show in About widget
 education:
   courses:
     - course: Ph.D. in Economic Analysis and Policy
@@ -40,8 +40,35 @@ education:
       institution: University of Toronto
       year: 2010
 
-email: rolando.campusano@rotman.utoronto.ca
-superuser: true
+# Social/Academic Networking
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: '/#contact'
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/rcampusa
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/rolandocampusano
+    label: Lets connect on Linkedin
+    display:
+      header: true
+
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
+
+# Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
 I am a **Ph.D. Candidate in Economic Analysis and Policy from the Rotman School of Management at the University of Toronto**. I am also a Ph.D. fellow at the [Centre for Real Estate and Urban Economics](https://www.rotman.utoronto.ca/FacultyAndResearch/ResearchCentres/CRE), and an Economist and Deemed Employee at [Statistics Canada](https://www.statcan.gc.ca/eng/start). Before grad school, I was a junior economist at the Economic Research Department of the [Central Bank of Chile](https://www.bcentral.cl/en/home).
