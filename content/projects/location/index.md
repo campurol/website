@@ -16,7 +16,7 @@ authors:
 # Author notes (optional)
 author_notes: ""
 
-date: ""
+date: "2021-09-27T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -37,7 +37,8 @@ abstract: How critical are location attributes for the success of startup firms?
 # Summary. An optional shortened abstract.
 summary: |2- 
     **Job Market Paper**
-    **Funding**: Statistics Canada Research Affiliate Program and BEAR Ph.D. Research Award"
+    
+    **Funding**: Statistics Canada Research Affiliate Program and BEAR Ph.D. Research Award
 
 tags: ['Job Market Paper','work in progress']
 
