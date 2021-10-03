@@ -75,4 +75,4 @@ I am a **Ph.D. Candidate in Economic Analysis and Policy from the Rotman Schoo
 
 My current projects include: combining machine learning methods with economic theory to delineate neighbourhoods based on historical location choices, using administrative data to study the causal impact of local agglomeration spillovers on entrepreneurial success while accounting for ownership location choices at the neighbourhood level, and recently analyzing the existence and effects of location constraints for women and immigrant entrepreneurial outcomes.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I expect to graduate in 2022 and will be available for interviews at the 2021-2022 ASSA/AEA and 2021-2022 EJME/EEA virtual meetings. {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} here.
