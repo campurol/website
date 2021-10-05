@@ -67,9 +67,9 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-I am a **Ph.D. Candidate in Economic Analysis and Policy from the Rotman School of Management at the University of Toronto**. I am also a Ph.D. fellow at the [Centre for Real Estate and Urban Economics](https://www.rotman.utoronto.ca/FacultyAndResearch/ResearchCentres/CRE), and an Economist and Deemed Employee at [Statistics Canada](https://www.statcan.gc.ca/eng/start). Before grad school, I was a junior economist at the Economic Research Department of the [Central Bank of Chile](https://www.bcentral.cl/en/home).
+I am a **Ph.D. Candidate in Economic Analysis and Policy from the Rotman School of Management at the University of Toronto**. I am also a Ph.D. fellow at the [Centre for Real Estate and Urban Economics](https://www.rotman.utoronto.ca/FacultyAndResearch/ResearchCentres/CRE), and a part-time Economist/Deemed Employee at [Statistics Canada](https://www.statcan.gc.ca/eng/start). Before grad school, I was a junior economist at the Economic Research Department of the [Central Bank of Chile](https://www.bcentral.cl/en/home).
 
-My current projects include: combining machine learning methods with economic theory to delineate neighbourhoods based on historical location choices, using administrative data to study the causal impact of local agglomeration spillovers on entrepreneurial success while accounting for ownership location choices at the neighbourhood level, and recently analyzing the existence and effects of location constraints for women and immigrant entrepreneurial outcomes.
+My current projects include: combining machine learning methods with economic theory to delineate neighbourhoods based on historical location choices, using administrative data to study the causal impact of local agglomeration spillovers on entrepreneurial success while accounting for ownership location choices at the neighbourhood level, and recently analyzing the existence and effects of gender location constraints on entrepreneurial outcomes.
 
 I expect to graduate in 2022 and will be available for interviews at the 2021-2022 ASSA/AEA and EJME/EEA virtual meetings. 
 
