@@ -36,8 +36,8 @@ education:
     - course: M.A. in Economic Analysis
       institution: University of Chile
       year: 2012
-    - course: B.A. in Economics
-      institution: University of Toronto
+    - course: B.A. in Economics 
+      institution: University of Chile
       year: 2010
 
 # Social/Academic Networking
