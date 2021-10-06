@@ -5,16 +5,16 @@
 
 main:
   - name: Home
-    url: '#about'
+    url: '#_about'
     weight: 10
   - name: Research
-    url: '#40_research'
+    url: '#_research'
     weight: 20
   - name: Teaching
     url: 'teaching/'
     weight: 30
   - name: Contact
-    url: '#60_contact'
+    url: '#_contact'
     weight: 50
 #  - name: Miscellaneous
 #    url: 'misc/'
