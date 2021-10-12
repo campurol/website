@@ -73,4 +73,4 @@ My current projects include: combining machine learning methods with economic th
 
 I expect to graduate in 2022 and will be available for interviews at the 2021-2022 ASSA/AEA and EJME/EEA virtual meetings. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://github.com/rcampusa/website/raw/master/static/uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}!.
+{{< icon name="download" pack="fas" >}} View my {{< staticref "https://github.com/rcampusa/website/blob/master/static/uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}} (external link to github repo)!.
