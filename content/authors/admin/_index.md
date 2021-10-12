@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Rolando Campusano
+title: Rolando Campusano Gárate
 
 # Is this the primary user of the site?
 superuser: true
