@@ -39,7 +39,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'neighbourhoods_v1.pdf'
+url_pdf: 'https://rolandocampusano.com/projects/neighborhoods/neighbourhoods_v1.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
