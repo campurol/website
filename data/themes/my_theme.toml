@@ -1,14 +1,14 @@
 # Theme metadata
-name = "Strawberry"
+name = "my_theme"
 
 # Is theme light or dark?
 light = true
 
 # Primary
-primary = "#ff3860"
+primary = "#E20778"
 
 # Menu
-menu_primary = "#ff3860"
+menu_primary = "#E20778"
 menu_text = "#fff"
 menu_text_active = "rgb(208, 255, 56)"
 menu_title = "#fff"
