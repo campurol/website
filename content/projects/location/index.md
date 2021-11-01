@@ -51,7 +51,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://rolandocampusano.com/projects/location/jmp_rcg_startups_spillovers.pdf'
+url_pdf: 'https://rolandocampusano.com/projects/location/rcg_jmp.pdf'
 url_code: 'https://github.com/rcampusa/nmlogit'
 url_dataset: ''
 url_poster: ''
